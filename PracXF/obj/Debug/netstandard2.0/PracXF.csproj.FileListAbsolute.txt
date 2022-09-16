@@ -1,0 +1,15 @@
+F:\Proyectos\PracXF\PracXF\bin\Debug\netstandard2.0\PracXF.deps.json
+F:\Proyectos\PracXF\PracXF\bin\Debug\netstandard2.0\PracXF.dll
+F:\Proyectos\PracXF\PracXF\bin\Debug\netstandard2.0\ref\PracXF.dll
+F:\Proyectos\PracXF\PracXF\bin\Debug\netstandard2.0\PracXF.pdb
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\PracXF.csprojAssemblyReference.cache
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\PracXF.AssemblyInfoInputs.cache
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\PracXF.AssemblyInfo.cs
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\PracXF.dll
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\ref\PracXF.dll
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\PracXF.pdb
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\Topics\ItemReordering\Reordering.xaml.g.cs
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\PracXF.csproj.CoreCompileInputs.cache
+F:\Proyectos\PracXF\PracXF\obj\Debug\netstandard2.0\XamlC.stamp
